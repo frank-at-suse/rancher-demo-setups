@@ -2147,10 +2147,10 @@ data:
         ]
       },
       "timezone": "",
-      "title": "Longhorn v1.1.0",
+      "title": "Longhorn Block Storage",
       "uid": "2BCgsldGz",
       "version": 101,
-      "description": "A dashboard for Longhorn v1.1.0"
+      "description": "A Dashboard for Longhorn Block Storage"
     }
 kind: ConfigMap
 metadata:
